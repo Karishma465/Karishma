@@ -1,6 +1,4 @@
 # D.KARISHMA
-# Gmail
-karishma.sbn555@gmail.com
 
 # Educational Qualifications
 
@@ -12,5 +10,7 @@ Inter | Sri Chaitanya | 2016
 # Objective
 To secure a challenging position in a reputable organization to expand my knowledge learning and skills.
 
+# Gmail
+karishma.sbn555@gmail.com
 
 
